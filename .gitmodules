@@ -1,0 +1,3 @@
+[submodule "nuxt-rails-test-front"]
+	path = nuxt-rails-test-front
+	url = git@github.com:takashiono2/nuxt-rails-test-front.git
